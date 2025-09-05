@@ -1,0 +1,362 @@
+{
+  "Version": 1,
+  "Hash": "imUvtt/yeh9ujXoYdjK0XMTi4Np8IKApx1DmNS+k4Io=",
+  "Source": "API",
+  "BasePath": "_content/API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "API\\wwwroot",
+      "Source": "API",
+      "ContentRoot": "C:\\Devs\\Core\\Empresa\\SolucionFinal\\Prototype\\Web\\API\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Devs\\Core\\Empresa\\SolucionFinal\\Prototype\\Web\\API\\API\\obj\\Debug\\net9.0\\compressed\\vhddlg8pqu-ap0b3vtjwp.gz",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Devs\\Core\\Empresa\\SolucionFinal\\Prototype\\Web\\API\\API\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/API",
+      "RelativePath": "swagger-custom#[.{fingerprint=ap0b3vtjwp}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Devs\\Core\\Empresa\\SolucionFinal\\Prototype\\Web\\API\\API\\wwwroot\\swagger-custom.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "wjvv5nt71w",
+      "Integrity": "fCI1Nf7XG9sWIdanAem5Mp0+8NaPsjMe3w6yo63dzZc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Devs\\Core\\Empresa\\SolucionFinal\\Prototype\\Web\\API\\API\\wwwroot\\swagger-custom.js"
+    },
+    {
+      "Identity": "C:\\Devs\\Core\\Empresa\\SolucionFinal\\Prototype\\Web\\API\\API\\wwwroot\\swagger-custom.js",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Devs\\Core\\Empresa\\SolucionFinal\\Prototype\\Web\\API\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "swagger-custom#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ap0b3vtjwp",
+      "Integrity": "TicGUrT2HpQg1PH61vZ6V3GKzeErfokh2ZJTDuxPNYs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\swagger-custom.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "swagger-custom.ap0b3vtjwp.js",
+      "AssetFile": "C:\\Devs\\Core\\Empresa\\SolucionFinal\\Prototype\\Web\\API\\API\\obj\\Debug\\net9.0\\compressed\\vhddlg8pqu-ap0b3vtjwp.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001418439716"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "704"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fCI1Nf7XG9sWIdanAem5Mp0+8NaPsjMe3w6yo63dzZc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Jul 2025 17:49:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"TicGUrT2HpQg1PH61vZ6V3GKzeErfokh2ZJTDuxPNYs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ap0b3vtjwp"
+        },
+        {
+          "Name": "label",
+          "Value": "swagger-custom.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TicGUrT2HpQg1PH61vZ6V3GKzeErfokh2ZJTDuxPNYs="
+        }
+      ]
+    },
+    {
+      "Route": "swagger-custom.ap0b3vtjwp.js",
+      "AssetFile": "C:\\Devs\\Core\\Empresa\\SolucionFinal\\Prototype\\Web\\API\\API\\wwwroot\\swagger-custom.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1767"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TicGUrT2HpQg1PH61vZ6V3GKzeErfokh2ZJTDuxPNYs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Jul 2025 17:49:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ap0b3vtjwp"
+        },
+        {
+          "Name": "label",
+          "Value": "swagger-custom.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TicGUrT2HpQg1PH61vZ6V3GKzeErfokh2ZJTDuxPNYs="
+        }
+      ]
+    },
+    {
+      "Route": "swagger-custom.ap0b3vtjwp.js.gz",
+      "AssetFile": "C:\\Devs\\Core\\Empresa\\SolucionFinal\\Prototype\\Web\\API\\API\\obj\\Debug\\net9.0\\compressed\\vhddlg8pqu-ap0b3vtjwp.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "704"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fCI1Nf7XG9sWIdanAem5Mp0+8NaPsjMe3w6yo63dzZc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Jul 2025 17:49:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ap0b3vtjwp"
+        },
+        {
+          "Name": "label",
+          "Value": "swagger-custom.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fCI1Nf7XG9sWIdanAem5Mp0+8NaPsjMe3w6yo63dzZc="
+        }
+      ]
+    },
+    {
+      "Route": "swagger-custom.js",
+      "AssetFile": "C:\\Devs\\Core\\Empresa\\SolucionFinal\\Prototype\\Web\\API\\API\\obj\\Debug\\net9.0\\compressed\\vhddlg8pqu-ap0b3vtjwp.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001418439716"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "704"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fCI1Nf7XG9sWIdanAem5Mp0+8NaPsjMe3w6yo63dzZc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Jul 2025 17:49:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"TicGUrT2HpQg1PH61vZ6V3GKzeErfokh2ZJTDuxPNYs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TicGUrT2HpQg1PH61vZ6V3GKzeErfokh2ZJTDuxPNYs="
+        }
+      ]
+    },
+    {
+      "Route": "swagger-custom.js",
+      "AssetFile": "C:\\Devs\\Core\\Empresa\\SolucionFinal\\Prototype\\Web\\API\\API\\wwwroot\\swagger-custom.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1767"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TicGUrT2HpQg1PH61vZ6V3GKzeErfokh2ZJTDuxPNYs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Jul 2025 17:49:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TicGUrT2HpQg1PH61vZ6V3GKzeErfokh2ZJTDuxPNYs="
+        }
+      ]
+    },
+    {
+      "Route": "swagger-custom.js.gz",
+      "AssetFile": "C:\\Devs\\Core\\Empresa\\SolucionFinal\\Prototype\\Web\\API\\API\\obj\\Debug\\net9.0\\compressed\\vhddlg8pqu-ap0b3vtjwp.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "704"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fCI1Nf7XG9sWIdanAem5Mp0+8NaPsjMe3w6yo63dzZc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Jul 2025 17:49:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fCI1Nf7XG9sWIdanAem5Mp0+8NaPsjMe3w6yo63dzZc="
+        }
+      ]
+    }
+  ]
+}

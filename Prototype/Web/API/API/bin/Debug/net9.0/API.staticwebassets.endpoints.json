@@ -1,0 +1,304 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "swagger-custom.ap0b3vtjwp.js",
+      "AssetFile": "swagger-custom.js.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001418439716"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "704"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fCI1Nf7XG9sWIdanAem5Mp0+8NaPsjMe3w6yo63dzZc=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"TicGUrT2HpQg1PH61vZ6V3GKzeErfokh2ZJTDuxPNYs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Jul 2025 17:49:56 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ap0b3vtjwp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TicGUrT2HpQg1PH61vZ6V3GKzeErfokh2ZJTDuxPNYs="
+        },
+        {
+          "Name": "label",
+          "Value": "swagger-custom.js"
+        }
+      ]
+    },
+    {
+      "Route": "swagger-custom.ap0b3vtjwp.js",
+      "AssetFile": "swagger-custom.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1767"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TicGUrT2HpQg1PH61vZ6V3GKzeErfokh2ZJTDuxPNYs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Jul 2025 17:49:56 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ap0b3vtjwp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TicGUrT2HpQg1PH61vZ6V3GKzeErfokh2ZJTDuxPNYs="
+        },
+        {
+          "Name": "label",
+          "Value": "swagger-custom.js"
+        }
+      ]
+    },
+    {
+      "Route": "swagger-custom.ap0b3vtjwp.js.gz",
+      "AssetFile": "swagger-custom.js.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "704"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fCI1Nf7XG9sWIdanAem5Mp0+8NaPsjMe3w6yo63dzZc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Jul 2025 17:49:56 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ap0b3vtjwp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fCI1Nf7XG9sWIdanAem5Mp0+8NaPsjMe3w6yo63dzZc="
+        },
+        {
+          "Name": "label",
+          "Value": "swagger-custom.js.gz"
+        }
+      ]
+    },
+    {
+      "Route": "swagger-custom.js",
+      "AssetFile": "swagger-custom.js.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001418439716"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "704"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fCI1Nf7XG9sWIdanAem5Mp0+8NaPsjMe3w6yo63dzZc=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"TicGUrT2HpQg1PH61vZ6V3GKzeErfokh2ZJTDuxPNYs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Jul 2025 17:49:56 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TicGUrT2HpQg1PH61vZ6V3GKzeErfokh2ZJTDuxPNYs="
+        }
+      ]
+    },
+    {
+      "Route": "swagger-custom.js",
+      "AssetFile": "swagger-custom.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1767"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TicGUrT2HpQg1PH61vZ6V3GKzeErfokh2ZJTDuxPNYs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Jul 2025 17:49:56 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TicGUrT2HpQg1PH61vZ6V3GKzeErfokh2ZJTDuxPNYs="
+        }
+      ]
+    },
+    {
+      "Route": "swagger-custom.js.gz",
+      "AssetFile": "swagger-custom.js.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "704"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fCI1Nf7XG9sWIdanAem5Mp0+8NaPsjMe3w6yo63dzZc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Jul 2025 17:49:56 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fCI1Nf7XG9sWIdanAem5Mp0+8NaPsjMe3w6yo63dzZc="
+        }
+      ]
+    }
+  ]
+}

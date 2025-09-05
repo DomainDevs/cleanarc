@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = Generators.Abstractions
+build_property.ProjectDir = C:\Devs\Core\Empresa\SolucionFinal\Libs\Generators.Abstractions\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 
